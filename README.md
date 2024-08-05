@@ -24,6 +24,8 @@
     <ol>
         <li>Run the game: <code>python gameplay.py</code></li>
         <li>Choose to play as <b>X</b> or <b>O</b></li>
+         <li><img src="D:\DEP Task1\start.png.png" alt="Step 1"></li>
+        <li><img src="D:\DEP Task1\play.png.png" alt="Step 2"></li>
         <li>Enjoy the game!</li>
     </ol>
 </body>
