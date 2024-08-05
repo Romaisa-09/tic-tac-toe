@@ -27,8 +27,8 @@
         <li>Enjoy the game!</li>
     </ol>
      <div>
-        <img src="D:\DEPTask1\start.png" alt="Step 1" style="width: 45%; margin-right: 5%;">
-        <img src="D:\DEPTask1\play.png" alt="Step 2" style="width: 45%;">
+        <img src="\start.png" alt="Step 1" style="width: 45%; margin-right: 5%;">
+        <img src="\play.png" alt="Step 2" style="width: 45%;">
     </div>
 </body>
 </html>
